@@ -21,19 +21,19 @@ A Python-based technical dictionary application that allows users to store, sear
 ```bash
 git clone <your-repo-url>
 cd technical-dictionary
+```
 
 2.Ensure Python 3.x is installed
-
 3.Run the application
 
 ## Testing
 
 ## Quick Test Guide
-1. **Run the application**:Execute `main code prog.py`
-2. **Test Search**: Choose Option 1. Enter "algorithm"
-3. **Test Add Word**: Choose Option 2.  Add a test word
-4. **Test View All**: Choose Option 3. Verify word list
-5. **Test Exit**: Choose Option 4. Confirm clean exit
+1. ** Run the application**:Execute `main code prog.py`
+2. ** Test Search**: Choose Option 1. Enter "algorithm"
+3. ** Test Add Word**: Choose Option 2.  Add a test word
+4. ** Test View All**: Choose Option 3. Verify word list
+5. ** Test Exit**: Choose Option 4. Confirm clean exit
 
 ## Expected Results
 * Search should display word details
