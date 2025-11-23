@@ -24,6 +24,7 @@ cd technical-dictionary
 ```
 
 2.Ensure Python 3.x is installed
+
 3.Run the application
 
 ## Testing
