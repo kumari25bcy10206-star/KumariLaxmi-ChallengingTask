@@ -28,17 +28,17 @@ cd technical-dictionary
 
 ## Testing
 
-### Quick Test Guide
-1. **Run the application**: `main code prog.py`
+## Quick Test Guide
+1. **Run the application**:Execute `main code prog.py`
 2. **Test Search**: Choose Option 1. Enter "algorithm"
 3. **Test Add Word**: Choose Option 2.  Add a test word
 4. **Test View All**: Choose Option 3. Verify word list
 5. **Test Exit**: Choose Option 4. Confirm clean exit
 
-### Expected Results
-- Search should display word details
-- New words should save and persist
-- All menu options should work without errors
+## Expected Results
+* Search should display word details
+* New words should save and persist
+* All menu options should work without errors
 
 ## Screenshots
 
