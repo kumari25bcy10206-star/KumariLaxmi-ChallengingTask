@@ -24,7 +24,7 @@ def save_word_to_json(word_data, filename=JSON_FILENAME):
         # First load existing data
         existing_data = {}
         if os.path.exists(filename):
-            with open(filename, 'r1', encoding='utf-8') as file:
+            with open(filename, 'r', encoding='utf-8') as file:
                 existing_data = json.load(file)
         
         # Add new word
