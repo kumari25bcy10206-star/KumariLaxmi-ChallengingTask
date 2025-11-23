@@ -21,6 +21,7 @@ A Python-based technical dictionary application that allows users to store, sear
 ```bash
 git clone <your-repo-url>
 cd technical-dictionary
+```
 
 2.Ensure Python 3.x is installed
 
@@ -29,11 +30,11 @@ cd technical-dictionary
 ## Testing
 
 ## Quick Test Guide
-1. **Run the application**:Execute `main code prog.py`
-2. **Test Search**: Choose Option 1. Enter "algorithm"
-3. **Test Add Word**: Choose Option 2.  Add a test word
-4. **Test View All**: Choose Option 3. Verify word list
-5. **Test Exit**: Choose Option 4. Confirm clean exit
+1. ** Run the application**:Execute `main code prog.py`
+2. ** Test Search**: Choose Option 1. Enter "algorithm"
+3. ** Test Add Word**: Choose Option 2.  Add a test word
+4. ** Test View All**: Choose Option 3. Verify word list
+5. ** Test Exit**: Choose Option 4. Confirm clean exit
 
 ## Expected Results
 * Search should display word details
@@ -41,15 +42,18 @@ cd technical-dictionary
 * All menu options should work without errors
 
 ## Screenshots
-
-![Main Menu](screenshots/main menu.png)
+### Main Menu
+(screenshots/main-menu-screenshot.png)
 *Main menu with all available options*
 
-![Search Feature](screenshots/search.png)
+### Search Feature
+(screenshots/search-screenshot.png)
 *Searching for technical terms*
 
-![Add New Word](screenshots/add.png)
+### Add New Word
+(screenshots/add-screenshot.png)
 *Adding new terms to the dictionary*
 
-![View All Words](screenshots/view all.png)
+### View All Words
+(screenshots/view-all-screenshot.png)
 *Viewing all stored technical terms*
