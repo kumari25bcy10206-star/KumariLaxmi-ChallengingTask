@@ -42,19 +42,22 @@ cd technical-dictionary
 * All menu options should work without errors
 
 ## Screenshots
-
+### Main Menu
 ![Main Menu with all available options]
-(screenshots/main menu.png)
+(screenshots/main-menu-screenshot.png)
 *Main menu with all available options*
 
+### Search Feature
 ![Searching for technical terms]
-(screenshots/search.png)
+(screenshots/search-screenshot.png)
 *Searching for technical terms*
 
+### Add New Word
 ![Adding new terms to the dictionary]
-(screenshots/add.png)
+(screenshots/add-screenshot.png)
 *Adding new terms to the dictionary*
 
+### View All Words
 ![View All Words]
-(screenshots/view all.png)
+(screenshots/view-all-screenshot.png)
 *Viewing all stored technical terms*
