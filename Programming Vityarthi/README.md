@@ -42,14 +42,18 @@ cd technical-dictionary
 
 ## Screenshots
 
-![Main Menu](screenshots/main menu.png)
+![Main Menu with all available options]
+(screenshots/main menu.png)
 *Main menu with all available options*
 
-![Search Feature](screenshots/search.png)
+![Searching for technical terms]
+(screenshots/search.png)
 *Searching for technical terms*
 
-![Add New Word](screenshots/add.png)
+![Adding new terms to the dictionary]
+(screenshots/add.png)
 *Adding new terms to the dictionary*
 
-![View All Words](screenshots/view all.png)
+![View All Words]
+(screenshots/view all.png)
 *Viewing all stored technical terms*
