@@ -1,5 +1,5 @@
 import time
-from stress_assessment import run_assessment
+from stressassessment import run_assessment
 from config import AFFIRMATIONS, TIPS
 
 class StressManagementApp:
@@ -12,7 +12,7 @@ class StressManagementApp:
         print("🌟" * 20)
         print("A safe space to manage stress and find peace")
     
-    def stress_assessment(self):
+    def stressassessment(self):
         """Option 1: Stress Assessment Quiz"""
         run_assessment()
     
@@ -111,7 +111,7 @@ class StressManagementApp:
             choice = input("Please choose an option (1-6): ").strip()
             
             if choice == '1':
-                self.stress_assessment()
+                self.stressassessment()
             elif choice == '2':
                 self.breathing_exercise()
             elif choice == '3':
