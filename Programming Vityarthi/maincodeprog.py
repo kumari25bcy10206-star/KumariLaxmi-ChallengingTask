@@ -2,7 +2,7 @@ import json
 import os
 import sys
 JSON_FILENAME="tech" \
-"_terms.json"
+"terms.json"
 
 def load_dictionary_from_json(filename=JSON_FILENAME):
     """Loading words from JSON file into a dictionary"""
